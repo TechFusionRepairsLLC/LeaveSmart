@@ -10,3 +10,4 @@ Premium Features
 Smart Home Integration: Control smart devices (e.g., Google Home, Alexa) to automate tasks like turning off lights or locking doors.
 Weather-Based Alerts: Receive reminders based on weather conditions (e.g., "Bring an umbrella").
 Recurring Checklists: Create tasks that repeat daily, weekly, or monthly.
+NO API INCLUDED YET ALL THIS IS PART OF A TEST/ PROJECT
